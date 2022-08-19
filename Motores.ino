@@ -1,0 +1,3 @@
+class Motores{
+    int pin;
+};
